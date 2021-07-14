@@ -18,5 +18,3 @@ assignees: ''
 **Additional Context**  <!-- Optional -->  
 
 <!-- Add any other context -->
-
-Join Eddie's Discord community [here](http://discord.eddiehub.org)
