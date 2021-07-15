@@ -21,7 +21,7 @@ body:
     id: Additional
     attributes:
       label: Additional Context
-      description: Where did you meet Eddie? What do you like about this community/ why do you want to join?
+      description: What do you like about this community/ why do you want to join?
     validations:
       required: false
   - type: markdown
