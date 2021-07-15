@@ -11,7 +11,6 @@ jobs:
         with:
           organization: Alphasians
           label: invite me to the organization
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: 'Welcome to the Organization🎊🎊!! Can't wait to see what all you can achieve!🍀.'
+          repo-token:${{ secrets.GITHUB_TOKEN }}
         env:
-          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
+          INVITE_TOKEN:${{ secrets.INVITE_TOKEN }}
