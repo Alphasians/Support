@@ -65,7 +65,7 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 	
 	
 - **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/Alphasians/support/issues/94).
-- **What is DevRel?** Check out the discussion on [this issue](https://github.com/Alphasians/support/issues/64) or on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
+- **What is DevRel?** Check out on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
 - **How do I get started with open source?** You can make your first pull request in this [repository](https://github.com/Alphasians/hacktoberfest-practice). Follow the instructions in the README, and don't forget – contributing to open source is not just about code – it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:.
 
   Here is a list of resources that also might help you start contributing to open source:
