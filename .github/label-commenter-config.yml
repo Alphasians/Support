@@ -1,0 +1,6 @@
+
+labels:
+  - name: component/ui
+    labeled:
+      issue:
+        body: This issue has been labeled with 'component/ui'.
