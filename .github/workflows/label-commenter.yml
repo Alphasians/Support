@@ -1,26 +1,19 @@
 name: Label Commenter
 
 on:
-  issues:
-    types:
-      - labeled
-
-  pull_request_target:
-    types:
-      - labeled
-
-permissions:
-  contents: read
-  issues: write
-  pull-requests: write
+  workflow_dispatch:
 
 jobs:
-  comment:
-    runs-on: ubuntu-18.04
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: master # Set your default branch
+  labels:
+    runs-on: ubuntu-latest
 
-      - name: Label Commenter
-        uses: peaceiris/actions-label-commenter@v1
+    steps:
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+    - name: EddieHubCommunity labels Action
+      uses: EddieHubCommunity/gh-action-open-source-labels@main
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        owner-name: 'Alphasians'
+        repository-name: ${{ github.event.repository.name }}
