@@ -53,15 +53,18 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 	
 	- Click on the highlighted area:
 	
-		![screenshot](https://user-images.githubusercontent.com/13745974/101496938-47da5000-3962-11eb-8ab3-8fd3ea327d1d.png)
+		![image](https://user-images.githubusercontent.com/53110238/140310956-bbfbd91c-5d16-469b-93f6-953cc2fae870.png)
 	
 	- Enter your username in the highlighted searchbar:
 	
-		![screenshot](https://user-images.githubusercontent.com/13745974/102218327-b3c63680-3ed5-11eb-9295-aafa5e59ebfd.png)
+		![image](https://user-images.githubusercontent.com/53110238/140311040-cdc77615-b9b6-4e68-8b05-5e40db0e3514.png)
+
 	
 	- Click `Private` (the default) and set it to `Public`
+
+		![image](https://user-images.githubusercontent.com/53110238/140311136-fe355147-d08d-4eaa-9b9e-f4bc496ce0d5.png)	
 	
-		![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
+		
 	
 	
 - **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/Alphasians/support/issues/94).
