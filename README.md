@@ -46,9 +46,9 @@ Please check out the [issue queue](https://github.com/Alphasians/support/issues)
 
 ## FAQ
 - **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook/Meta](https://github.com/facebook) and of course [EddieHub](https://github.com/EddieHubCommunity).
-Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
-- **How do I join the Github Organization?** Raise an issue on this repository asking to join ([invite me](https://github.com/Alphasians/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
-- **How do I set the Organization to Public?**
+Learn more on [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
+- **How do I join the GitHub Organization?** Raise an issue on this repository asking to join ([invite me](https://github.com/Alphasians/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
+- **How do I set the membership public?**
 	- Navigate to our community page: https://github.com/Alphasians
 	
 	- Click on the highlighted area:
